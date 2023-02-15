@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(void) {
-  cout <<"This is Sukruth Keshava Gowda(PES1UG20CS443)\n";
+  cout <<"This is Sukruth Keshava Gowda(PES1UG20CS443)\n":
   cout <<"I'm in Section H \n";
   cout << "Creating a  Pipeline \n";
   return 0;
